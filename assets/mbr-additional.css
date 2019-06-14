@@ -1,0 +1,21 @@
+ .left-side{
+    padding: 15px;
+    font-size: 22px;
+    background: #eee;
+    z-index: 0;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    }
+    .right-side{
+        padding: 15px;
+    background: #868114;
+    border-color: #868114;
+    font-size: 22px;
+    z-index: 1;
+    color: white;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    }
+    @media only screen and (max-width: 600px){
+    
+    }
